@@ -112,4 +112,4 @@ The best way to showcase skills is by doing and sharing your job done but someti
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LRQ498UKBBSJ?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=prof) (Sep 2022) (Coursera - Google)
 
 ## Contacts
-- LinkedIn: [@tiannaparris](https://www.linkedin.com/in/garcedg101/)
+- LinkedIn: [@edgar.garcia](https://www.linkedin.com/in/garcedg101/)
