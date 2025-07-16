@@ -107,7 +107,6 @@ Dec 2018 - Dec 2020
 
 
 ## Certificates
-The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
 - [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/GA27T59XN35V) (Nov 2022) (Coursera - Google)
 - [Google IT Support Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/ETNDC29GDYJG) (Nov 2020) (Coursera - Google)
 
