@@ -1,6 +1,6 @@
 # Edgar Garcia - Data Analyst Portfolio
 ## About
-Hi, I'm Edgar! I currently work as an IT Systems Administrator, and I am on working towards transitioning to the world of Data Analytics. I have developed a strong foundation in the life sciences and a passion for using data to uncover meaningful insights. I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
+Hi, I'm Edgar! I currently work as an IT Systems Administrator, and I am currently working towards transitioning to the world of Data Analytics. I have developed a strong passion for using data to uncover meaningful insights, and I am excited to bring my technical and analytical skills to the field of data science as an entry-level data specialist. 
 
 During my studies, I honed my ability to work with complex data and developed a keen eye for identifying patterns and trends. I also gained experience in laboratory techniques, data management, and statistical analysis, which I believe will be valuable assets in my role as a data specialist.
 
