@@ -17,8 +17,7 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
-    - [Solarwinds Quarterly ISP Provider Availibility Report]
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#Solarwinds Quarterly ISP Provider Report)
+    - [Solarwinds Quarterly ISP Provider Availibility Report](https://github.com/Emrys10125/Emrys10125/blob/main/README.md#solarwinds-quarterly-isp-provider-availibility-report)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
