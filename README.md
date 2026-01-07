@@ -17,8 +17,8 @@ This is a repository to showcase skills, share projects and track my progress in
     - [Analyzing the Factors Contributing to the Success of a Movie](https://github.com/tiannaparris/Data-Analysis-Portfolio#analyzing-the-factors-contributing-to-the-success-of-a-movie)
     - [Tech Store Sales Analysis](https://github.com/tiannaparris/Data-Analysis-Portfolio#tech-store-sales-analysis)  
   - SQL
-    - [Solarwinds Quarterly ISP Provider Report]
-    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#covid-19-data-exploration)
+    - [Solarwinds Quarterly ISP Provider Availibility Report]
+    - [Covid 19 Data Exploration](https://github.com/tiannaparris/Data-Analysis-Portfolio#Solarwinds Quarterly ISP Provider Report)
     - [Nashville Housing Data Cleaning](https://github.com/tiannaparris/Data-Analysis-Portfolio#nashville-housing-data-cleaning)
   - R
     - [Legendary Pokémon Analysis (Study Project)](https://github.com/tiannaparris/Data-Analysis-Portfolio#legendary-pok%C3%A9mon-analysis)
@@ -74,7 +74,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** SQL Server
 
 
-### Covid 19 Data Exploration
+### Solarwinds Quarterly ISP Provider Availibility Report
 **Code:** [`COVID Portfolio Project.sql`](https://github.com/tiannaparris/PortfolioProjects/blob/main/COVID%20Portfolio%20Project.sql)
 
 **Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
