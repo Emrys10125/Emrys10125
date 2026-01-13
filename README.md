@@ -76,9 +76,9 @@ In this section I will list data analytics projects briefly describing the techn
 ### Solarwinds Quarterly ISP Provider Availibility Report
 **Code:** [`SW ISP Availability Report.sql`](https://github.com/Emrys10125/Emrys10125/blob/main/SW%20ISP%20Availability%20Report.sql)
 
-**Description:** The dataset contains records of Covid-19 cases, deaths and vaccine records by country in 2020-2021. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+**Description:** This query calculates quarterly average availability for each primary provider over the last eight quarters, using dynamic date ranges to keep results current. It joins tables, filters out missing providers, groups by year and quarter, and outputs a formatted report with Year, Quarter, Average Availability, and Provider.
 
-**Skills:** Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
+**Skills:** Joins, Aggregate Functions (AVG, ROUND), Date & Time Functions (DATEADD, DATEDIFF, DATEPART), Grouping & Ordering (GROUP BY, ORDER BY), Data Type Conversion (CAST, CONVERT), Dynamic Time WindowingJoins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
 
 **Technology:** SQL Server
 
